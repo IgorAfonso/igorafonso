@@ -41,3 +41,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/IgorAfonso/IgorAfonso/output/snake.svg" alt="Snake animation" />
+
+###
